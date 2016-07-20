@@ -1,9 +1,9 @@
 Note: this repo is used for learning and testing github. Nothing useful included. <br>
 
 tryGit:<br>
-https://github.com/wuzhe213/tryGit.git <br>
+`https://github.com/wuzhe213/tryGit.git` <br> 
 or <br>
-git@github.com: wuzhe213/tryGit.git
+`git@github.com: wuzhe213/tryGit.git`
 
 ```c
 #include <stdio.h>

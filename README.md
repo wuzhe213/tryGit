@@ -1,3 +1,5 @@
+Note: this repo is used for learning and testing github. Nothing useful included. <br>
+
 tryGit:<br>
 https://github.com/wuzhe213/tryGit.git <br>
 or <br>
